@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielong-jp
-- 👀 I’m interested in Java, JavaScript, C# and Security.
+- 👀 I’m interested in Security and Networking.
 - 🌱 I’m currently learning Node.js, HTML and CSS, and all the technologies.
 - 💞️ I’m looking to collaborate on anything I can work on :)
 - 📫 How to reach me ongdaniel@outlook.jp
